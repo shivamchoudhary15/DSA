@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shivamchoudhary15/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Counting
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/shivamchoudhary15/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
