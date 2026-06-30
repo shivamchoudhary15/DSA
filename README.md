@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shivamchoudhary15/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Counting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 <!---LeetCode Topics End-->
