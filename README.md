@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/shivamchoudhary15/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
