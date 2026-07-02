@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shivamchoudhary15/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shivamchoudhary15/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shivamchoudhary15/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
