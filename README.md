@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Linked List
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/shivamchoudhary15/DSA/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shivamchoudhary15/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Sorting
