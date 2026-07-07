@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivamchoudhary15/DSA/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Counting
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 ## String
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 ## Sorting
 |  |
 | ------- |
