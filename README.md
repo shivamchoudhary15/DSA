@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shivamchoudhary15/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/shivamchoudhary15/DSA/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamchoudhary15/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
+| [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 ## Bucket Sort
 |  |
