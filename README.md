@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shivamchoudhary15/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivamchoudhary15/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamchoudhary15/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
