@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shivamchoudhary15/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shivamchoudhary15/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Greedy
 |  |
