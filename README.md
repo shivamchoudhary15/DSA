@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/shivamchoudhary15/DSA/tree/master/1288-remove-covered-intervals) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamchoudhary15/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamchoudhary15/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shivamchoudhary15/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2155-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/shivamchoudhary15/DSA/tree/master/2155-all-divisions-with-the-highest-score-of-a-binary-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamchoudhary15/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
 |  |
