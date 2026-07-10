@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2295-replace-elements-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
