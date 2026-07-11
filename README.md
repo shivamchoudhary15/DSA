@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/shivamchoudhary15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamchoudhary15/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shivamchoudhary15/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
