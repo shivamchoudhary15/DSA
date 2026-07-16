@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivamchoudhary15/DSA/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivamchoudhary15/DSA/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/shivamchoudhary15/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shivamchoudhary15/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/shivamchoudhary15/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -229,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
