@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
