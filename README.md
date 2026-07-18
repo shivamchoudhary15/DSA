@@ -258,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
+## Tree
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
