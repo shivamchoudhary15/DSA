@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamchoudhary15/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/shivamchoudhary15/DSA/tree/master/2090-k-radius-subarray-averages) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
 | ------- |
