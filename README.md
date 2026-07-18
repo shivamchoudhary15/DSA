@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/shivamchoudhary15/DSA/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -281,12 +283,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
