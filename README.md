@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/shivamchoudhary15/DSA/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/shivamchoudhary15/DSA/tree/master/0991-broken-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
+| [0991-broken-calculator](https://github.com/shivamchoudhary15/DSA/tree/master/0991-broken-calculator) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
