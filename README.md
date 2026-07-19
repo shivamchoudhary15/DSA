@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivamchoudhary15/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/shivamchoudhary15/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamchoudhary15/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -285,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -299,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
