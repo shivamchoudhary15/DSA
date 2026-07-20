@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamchoudhary15/DSA/tree/master/0011-container-with-most-water) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0648-replace-words](https://github.com/shivamchoudhary15/DSA/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/shivamchoudhary15/DSA/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamchoudhary15/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/shivamchoudhary15/DSA/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/shivamchoudhary15/DSA/tree/master/0991-broken-calculator) |
