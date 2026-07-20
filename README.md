@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamchoudhary15/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shivamchoudhary15/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivamchoudhary15/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2523-closest-prime-numbers-in-range](https://github.com/shivamchoudhary15/DSA/tree/master/2523-closest-prime-numbers-in-range) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamchoudhary15/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivamchoudhary15/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamchoudhary15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/shivamchoudhary15/DSA/tree/master/2523-closest-prime-numbers-in-range) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamchoudhary15/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivamchoudhary15/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shivamchoudhary15/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
