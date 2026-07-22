@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/shivamchoudhary15/DSA/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivamchoudhary15/DSA/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/shivamchoudhary15/DSA/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/shivamchoudhary15/DSA/tree/master/0856-score-of-parentheses) |
