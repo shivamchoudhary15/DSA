@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shivamchoudhary15/DSA/tree/master/0006-zigzag-conversion) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/shivamchoudhary15/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shivamchoudhary15/DSA/tree/master/0443-string-compression) |
