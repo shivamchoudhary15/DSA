@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/shivamchoudhary15/DSA/tree/master/0086-partition-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/shivamchoudhary15/DSA/tree/master/0328-odd-even-linked-list) |
@@ -342,11 +343,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Union-Find
