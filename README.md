@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/shivamchoudhary15/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
+| [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/shivamchoudhary15/DSA/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivamchoudhary15/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamchoudhary15/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
