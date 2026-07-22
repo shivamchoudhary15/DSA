@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/shivamchoudhary15/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/shivamchoudhary15/DSA/tree/master/0328-odd-even-linked-list) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivamchoudhary15/DSA/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/shivamchoudhary15/DSA/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0443-string-compression](https://github.com/shivamchoudhary15/DSA/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
