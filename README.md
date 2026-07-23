@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/shivamchoudhary15/DSA/tree/master/3701-compute-alternating-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/shivamchoudhary15/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/shivamchoudhary15/DSA/tree/master/2579-count-total-number-of-colored-cells) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamchoudhary15/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivamchoudhary15/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamchoudhary15/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
