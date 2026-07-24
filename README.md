@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivamchoudhary15/DSA/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0738-monotone-increasing-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/shivamchoudhary15/DSA/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/shivamchoudhary15/DSA/tree/master/0991-broken-calculator) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0738-monotone-increasing-digits) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
 | [0991-broken-calculator](https://github.com/shivamchoudhary15/DSA/tree/master/0991-broken-calculator) |
