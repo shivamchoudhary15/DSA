@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shivamchoudhary15/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/shivamchoudhary15/DSA/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivamchoudhary15/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Trie
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/shivamchoudhary15/DSA/tree/master/2579-count-total-number-of-colored-cells) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shivamchoudhary15/DSA/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/shivamchoudhary15/DSA/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamchoudhary15/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/shivamchoudhary15/DSA/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivamchoudhary15/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/shivamchoudhary15/DSA/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamchoudhary15/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
