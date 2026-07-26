@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1701-average-waiting-time](https://github.com/shivamchoudhary15/DSA/tree/master/1701-average-waiting-time) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivamchoudhary15/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamchoudhary15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2090-k-radius-subarray-averages](https://github.com/shivamchoudhary15/DSA/tree/master/2090-k-radius-subarray-averages) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamchoudhary15/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/shivamchoudhary15/DSA/tree/master/2126-destroying-asteroids) |
 | [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
