@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/shivamchoudhary15/DSA/tree/master/0948-bag-of-tokens) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivamchoudhary15/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/shivamchoudhary15/DSA/tree/master/1288-remove-covered-intervals) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
+| [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/shivamchoudhary15/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/shivamchoudhary15/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivamchoudhary15/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
