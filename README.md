@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shivamchoudhary15/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/shivamchoudhary15/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivamchoudhary15/DSA/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1701-average-waiting-time](https://github.com/shivamchoudhary15/DSA/tree/master/1701-average-waiting-time) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivamchoudhary15/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivamchoudhary15/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamchoudhary15/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivamchoudhary15/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/shivamchoudhary15/DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2284-sender-with-largest-word-count](https://github.com/shivamchoudhary15/DSA/tree/master/2284-sender-with-largest-word-count) |
