@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamchoudhary15/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/shivamchoudhary15/DSA/tree/master/2126-destroying-asteroids) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shivamchoudhary15/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2233-maximum-product-after-k-increments](https://github.com/shivamchoudhary15/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivamchoudhary15/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/shivamchoudhary15/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamchoudhary15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/shivamchoudhary15/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shivamchoudhary15/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shivamchoudhary15/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
