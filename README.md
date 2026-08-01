@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shivamchoudhary15/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -460,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/shivamchoudhary15/DSA/tree/master/1641-count-sorted-vowel-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
