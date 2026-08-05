@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0525-contiguous-array](https://github.com/shivamchoudhary15/DSA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shivamchoudhary15/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
+| [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivamchoudhary15/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/1143-longest-common-subsequence) |
@@ -487,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
