@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/shivamchoudhary15/DSA/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1641-count-sorted-vowel-strings](https://github.com/shivamchoudhary15/DSA/tree/master/1641-count-sorted-vowel-strings) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/shivamchoudhary15/DSA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamchoudhary15/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shivamchoudhary15/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/shivamchoudhary15/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/shivamchoudhary15/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamchoudhary15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/shivamchoudhary15/DSA/tree/master/1641-count-sorted-vowel-strings) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/shivamchoudhary15/DSA/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamchoudhary15/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
 |  |
