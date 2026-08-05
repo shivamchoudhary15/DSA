@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/shivamchoudhary15/DSA/tree/master/0899-orderly-queue) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/shivamchoudhary15/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamchoudhary15/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/1143-longest-common-subsequence) |
 | [1387-sort-integers-by-the-power-value](https://github.com/shivamchoudhary15/DSA/tree/master/1387-sort-integers-by-the-power-value) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamchoudhary15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1641-count-sorted-vowel-strings](https://github.com/shivamchoudhary15/DSA/tree/master/1641-count-sorted-vowel-strings) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
