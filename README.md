@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamchoudhary15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/shivamchoudhary15/DSA/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivamchoudhary15/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamchoudhary15/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivamchoudhary15/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/shivamchoudhary15/DSA/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/shivamchoudhary15/DSA/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/shivamchoudhary15/DSA/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivamchoudhary15/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shivamchoudhary15/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
