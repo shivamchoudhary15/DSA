@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivamchoudhary15/DSA/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamchoudhary15/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/shivamchoudhary15/DSA/tree/master/0525-contiguous-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivamchoudhary15/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/shivamchoudhary15/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
