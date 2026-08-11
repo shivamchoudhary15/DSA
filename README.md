@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamchoudhary15/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
@@ -508,5 +511,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
