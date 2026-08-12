@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shivamchoudhary15/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3169-count-days-without-meetings](https://github.com/shivamchoudhary15/DSA/tree/master/3169-count-days-without-meetings) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shivamchoudhary15/DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivamchoudhary15/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2611-mice-and-cheese](https://github.com/shivamchoudhary15/DSA/tree/master/2611-mice-and-cheese) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/shivamchoudhary15/DSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3169-count-days-without-meetings](https://github.com/shivamchoudhary15/DSA/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamchoudhary15/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shivamchoudhary15/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/shivamchoudhary15/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
