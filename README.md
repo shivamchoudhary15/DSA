@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/shivamchoudhary15/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/shivamchoudhary15/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamchoudhary15/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/shivamchoudhary15/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2785-sort-vowels-in-a-string](https://github.com/shivamchoudhary15/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shivamchoudhary15/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamchoudhary15/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3527-find-the-most-common-response](https://github.com/shivamchoudhary15/DSA/tree/master/3527-find-the-most-common-response) |
 | [3713-longest-balanced-substring-i](https://github.com/shivamchoudhary15/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/shivamchoudhary15/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamchoudhary15/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/shivamchoudhary15/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivamchoudhary15/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/shivamchoudhary15/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Simulation
 |  |
