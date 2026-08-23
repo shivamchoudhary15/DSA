@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shivamchoudhary15/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shivamchoudhary15/DSA/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/shivamchoudhary15/DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/shivamchoudhary15/DSA/tree/master/0389-find-the-difference) |
