@@ -1,4 +1,3 @@
-
 class Solution {
     public static void trev(TreeNode root ,ArrayList<Integer> res){
         if(root==null){
