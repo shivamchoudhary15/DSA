@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shivamchoudhary15/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
+| [0198-house-robber](https://github.com/shivamchoudhary15/DSA/tree/master/0198-house-robber) |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/shivamchoudhary15/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
