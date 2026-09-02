@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shivamchoudhary15/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Geometry
@@ -539,4 +541,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shivamchoudhary15/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
