@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/shivamchoudhary15/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/shivamchoudhary15/DSA/tree/master/0198-house-robber) |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/shivamchoudhary15/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/shivamchoudhary15/DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/shivamchoudhary15/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/shivamchoudhary15/DSA/tree/master/0389-find-the-difference) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivamchoudhary15/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/shivamchoudhary15/DSA/tree/master/0289-game-of-life) |
 | [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamchoudhary15/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0100-same-tree) |
