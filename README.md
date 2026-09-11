@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivamchoudhary15/DSA/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/shivamchoudhary15/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/shivamchoudhary15/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/shivamchoudhary15/DSA/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/shivamchoudhary15/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/shivamchoudhary15/DSA/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
