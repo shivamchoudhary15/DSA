@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivamchoudhary15/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shivamchoudhary15/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shivamchoudhary15/DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivamchoudhary15/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/shivamchoudhary15/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
