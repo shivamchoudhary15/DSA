@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shivamchoudhary15/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/shivamchoudhary15/DSA/tree/master/0948-bag-of-tokens) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivamchoudhary15/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamchoudhary15/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/shivamchoudhary15/DSA/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shivamchoudhary15/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/shivamchoudhary15/DSA/tree/master/1254-number-of-closed-islands) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamchoudhary15/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/shivamchoudhary15/DSA/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/shivamchoudhary15/DSA/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Number Theory
