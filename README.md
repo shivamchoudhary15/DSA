@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/shivamchoudhary15/DSA/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/shivamchoudhary15/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivamchoudhary15/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamchoudhary15/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/shivamchoudhary15/DSA/tree/master/0881-boats-to-save-people) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shivamchoudhary15/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shivamchoudhary15/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shivamchoudhary15/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/shivamchoudhary15/DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/shivamchoudhary15/DSA/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamchoudhary15/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/shivamchoudhary15/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shivamchoudhary15/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamchoudhary15/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
