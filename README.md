@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivamchoudhary15/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/shivamchoudhary15/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivamchoudhary15/DSA/tree/master/0525-contiguous-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivamchoudhary15/DSA/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/shivamchoudhary15/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/shivamchoudhary15/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/shivamchoudhary15/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/shivamchoudhary15/DSA/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/shivamchoudhary15/DSA/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamchoudhary15/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamchoudhary15/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/shivamchoudhary15/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivamchoudhary15/DSA/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
@@ -650,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivamchoudhary15/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
