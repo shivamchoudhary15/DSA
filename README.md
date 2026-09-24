@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0494-target-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivamchoudhary15/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/shivamchoudhary15/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivamchoudhary15/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/shivamchoudhary15/DSA/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/shivamchoudhary15/DSA/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0494-target-sum) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/shivamchoudhary15/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shivamchoudhary15/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/shivamchoudhary15/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivamchoudhary15/DSA/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/shivamchoudhary15/DSA/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shivamchoudhary15/DSA/tree/master/0877-stone-game) |
@@ -646,10 +649,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shivamchoudhary15/DSA/tree/master/0494-target-sum) |
 ## Binary Lifting
 |  |
 | ------- |
