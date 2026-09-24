@@ -4,7 +4,8 @@ class Solution {
         for(int i:nums){
             sum+=i;
         }
-        int s=(target+sum)/2;
+        if((sum-target)/2<0 || (sum-target)%2!=0) return 0;    
+        int s=(sum-target)/2;
         return knapsack(nums,s);
     }
     public static int knapsack(int [] nums,int target){
