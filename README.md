@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shivamchoudhary15/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivamchoudhary15/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shivamchoudhary15/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/shivamchoudhary15/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamchoudhary15/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivamchoudhary15/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shivamchoudhary15/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/shivamchoudhary15/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/shivamchoudhary15/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/shivamchoudhary15/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shivamchoudhary15/DSA/tree/master/0496-next-greater-element-i) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivamchoudhary15/DSA/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivamchoudhary15/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
